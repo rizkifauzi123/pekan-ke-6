@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(245, 236, 186);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+#header{
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+}
+
+blockquote{
+    background-color: rgb(41, 168, 147);
+}
+
+.uji ul {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 10px;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.isi::first-letter {
+    font-size: 50px;
+    color: blue;
+}
+
+.uji{
+    text-align: center;
+    
+}
+
+.uji ul{
+    list-style: none;
+}
+
+.isi p{
+
+    font-family:"Times New Roman", Times,georgia, serif;
+}
+
+#profil h3{
+    border: 3px dotted yellow;
+
+}   
+
+#beternak h4{
+    border: 1px double yellowgreen;
+}
+
+#beternak p{
+    background-color: white;
+}
+#profil ul{
+    background-color: teal;
+    
+}
+
+.koleksi{
+    text-align: center;
+    background-color: rgb(235, 233, 140);
+}
+
+.koleksi img{
+        width: 20%;
+}
+
+.promo {
+    font-size: 20px;
+}
+
+.promo h2{
+    background-color: rgb(170, 224, 82);
+    text-align: center;
+}
+
+.promo h3{
+    border : 9px groove rgb(166, 255, 0);
+}
